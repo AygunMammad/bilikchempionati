@@ -1,0 +1,6 @@
+{
+  "name": "Gəmi Vurmaq — 100 Suallıq Təhsil Oyunu",
+  "description": "2-ci və 3-cü sinif şagirdləri üçün Azərbaycan dilində 5 fənn üzrə 100 suallıq Dəniz Döyüşü təhsil oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
